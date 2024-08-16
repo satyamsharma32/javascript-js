@@ -14,6 +14,6 @@ let accountState;
 console.log([accountId,accountCity,accountPassword,accountEmail,accountState]);
 
 /*
-prefer to not use var variable because of issue of 
+prefer to not use var variable because of issue of scope and functional scopes 
 
 */
