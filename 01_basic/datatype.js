@@ -1,4 +1,4 @@
-"use strict"; // treate all js coder as new versionalert(3 + 3); 
+"use strict"; // treate all js coder as new version alert(3 + 3); 
 console.log(2+2);// we use node.js not browser
 
 let name = "satyam"; // string
